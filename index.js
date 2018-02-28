@@ -1,6 +1,6 @@
 // write your code below!
 
-var name = "Uint8ClampedArray"
+var name = "Nada"
 var height = "70"
 
 console.log("Name:")
